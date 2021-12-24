@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: helvetica;
+    font-weight: bold;
+    background-color: #0d0d0d;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    width: 65vw;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 4.4rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.we-need-you {
+    width: 75vw;
+    background-color: #ffffaa;
+    border-radius: 25px;
+    color: black;
+    padding: 5px;
+    margin: 10px auto;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
